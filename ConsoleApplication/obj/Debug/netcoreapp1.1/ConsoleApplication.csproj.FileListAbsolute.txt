@@ -1,0 +1,16 @@
+/home/eduardo/RiderProjects/ProjectExamples/ConsoleApplication/bin/Debug/netcoreapp1.1/ConsoleApplication.deps.json
+/home/eduardo/RiderProjects/ProjectExamples/ConsoleApplication/bin/Debug/netcoreapp1.1/ConsoleApplication.runtimeconfig.json
+/home/eduardo/RiderProjects/ProjectExamples/ConsoleApplication/bin/Debug/netcoreapp1.1/ConsoleApplication.runtimeconfig.dev.json
+/home/eduardo/RiderProjects/ProjectExamples/ConsoleApplication/bin/Debug/netcoreapp1.1/ConsoleApplication.dll
+/home/eduardo/RiderProjects/ProjectExamples/ConsoleApplication/bin/Debug/netcoreapp1.1/obj/Debug/netcoreapp1.1/ConsoleApplication.pdb
+/home/eduardo/RiderProjects/ProjectExamples/ConsoleApplication/obj/Debug/netcoreapp1.1/ConsoleApplication.AssemblyInfo.cs
+/home/eduardo/RiderProjects/ProjectExamples/ConsoleApplication/obj/Debug/netcoreapp1.1/ConsoleApplication.dll
+/home/eduardo/RiderProjects/ProjectExamples/ConsoleApplication/obj/Debug/netcoreapp1.1/ConsoleApplication.pdb
+/home/eduardo/projetos/dotnet/ProjectExamples/ConsoleApplication/bin/Debug/netcoreapp1.1/ConsoleApplication.deps.json
+/home/eduardo/projetos/dotnet/ProjectExamples/ConsoleApplication/bin/Debug/netcoreapp1.1/ConsoleApplication.runtimeconfig.json
+/home/eduardo/projetos/dotnet/ProjectExamples/ConsoleApplication/bin/Debug/netcoreapp1.1/ConsoleApplication.runtimeconfig.dev.json
+/home/eduardo/projetos/dotnet/ProjectExamples/ConsoleApplication/bin/Debug/netcoreapp1.1/ConsoleApplication.dll
+/home/eduardo/projetos/dotnet/ProjectExamples/ConsoleApplication/bin/Debug/netcoreapp1.1/obj/Debug/netcoreapp1.1/ConsoleApplication.pdb
+/home/eduardo/projetos/dotnet/ProjectExamples/ConsoleApplication/obj/Debug/netcoreapp1.1/ConsoleApplication.AssemblyInfo.cs
+/home/eduardo/projetos/dotnet/ProjectExamples/ConsoleApplication/obj/Debug/netcoreapp1.1/ConsoleApplication.dll
+/home/eduardo/projetos/dotnet/ProjectExamples/ConsoleApplication/obj/Debug/netcoreapp1.1/ConsoleApplication.pdb
