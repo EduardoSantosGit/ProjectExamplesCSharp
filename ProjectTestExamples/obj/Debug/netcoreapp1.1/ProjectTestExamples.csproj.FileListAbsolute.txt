@@ -21,4 +21,4 @@
 /home/eduardo/projetos/dotnet/ProjectExamples/ProjectTestExamples/obj/Debug/netcoreapp1.1/ProjectTestExamples.AssemblyInfo.cs
 /home/eduardo/projetos/dotnet/ProjectExamples/ProjectTestExamples/obj/Debug/netcoreapp1.1/ProjectTestExamples.dll
 /home/eduardo/projetos/dotnet/ProjectExamples/ProjectTestExamples/obj/Debug/netcoreapp1.1/ProjectTestExamples.pdb
-/home/eduardo/projetos/dotnet/ProjectExamples/ProjectTestExamples/bin/Debug/netcoreapp1.1/ProjectTestExamples.pdb
+/home/eduardo/projetos/dotnet/ProjectExamples/ProjectTestExamples/bin/Debug/netcoreapp1.1/obj/Debug/netcoreapp1.1/ProjectTestExamples.pdb
